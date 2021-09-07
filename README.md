@@ -12,7 +12,7 @@
 </div>
     
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=HdA-Pagina-Web&theme=buefy)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=comercio-eletronic&theme=buefy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=comercio-eletronico&theme=buefy)
 <div style="display: inline_block">
     <img style="width: 150px" border-radius="5px" align="right" src="https://github.com/Escravo/Escravo/blob/main/images/Largatinho.png">  
 </div>
