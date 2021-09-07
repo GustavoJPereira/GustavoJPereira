@@ -5,13 +5,13 @@
 - 📫 Contate-me em: gustavojosepereira2021@gmail.com
 <div>
     <a href="https://github.com/Escravo" style="display: flex">
-    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=synthwave"/>
+    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=synthwave)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=HdA-Pagina-Web&theme=synthwave)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=comercio-eletronico&theme=synthwave)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=buefy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=HdA-Pagina-Web&theme=buefy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=comercio-eletronico&theme=buefy)
 
 ##
 <div style="display: inline_block"><br>
