@@ -5,8 +5,8 @@
 - 📫 Contate-me em: gustavojosepereira2021@gmail.com
 <div>
     <a href="https://github.com/Escravo" style="display: flex">
-    <img syle="display: inline_block" height="161em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img syle="display: inline_block" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=synthwave"/>
+    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=synthwave)
