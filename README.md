@@ -23,12 +23,11 @@
 <hr>
 <div style="display: inline_block" width="100%" align="center">
     <h2>Linguagens</h2>
-    <img align="center" alt="Gustavo-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Gustavo-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Gustavo-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gustavo-HTML5" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Gustavo-CSS3" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Gustavo-Javascript" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 <div>
   <a href=""></a>
 </div>
     
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
