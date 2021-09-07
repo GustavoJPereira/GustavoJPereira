@@ -7,17 +7,17 @@
 <hr>
 <div>
     <a href="https://github.com/Escravo" style="display: flex">
-    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <img syle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=buefy"/>
-</div>
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=buefy)
-<div>
-    <img height="150px" width="150px" src="">  
+    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=buefy"/>
 </div>
     
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=HdA-Pagina-Web&theme=buefy)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=comercio-eletronico&theme=buefy)
+<div style="display: inline_block">
+    <img style="width: 150px" border-radius="5px" align="right" src="https://github.com/Escravo/Escravo/blob/main/images/Largatinho.png">  
+</div>
+    
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=buefy)
 
 <hr>
 <div style="display: inline_block"><br>
@@ -28,3 +28,5 @@
 <div>
   <a href=""></a>
 </div>
+    
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
