@@ -12,8 +12,8 @@
 </div>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=buefy)
-<div>
-    <img height="150px" width="150px" src="">  
+<div  style="border-radius: 5px">
+    <img height="150px" width="150px" src="https://github.com/Escravo/Escravo/blob/main/images/Largatinho.png">  
 </div>
     
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escravo&repo=HdA-Pagina-Web&theme=buefy)
