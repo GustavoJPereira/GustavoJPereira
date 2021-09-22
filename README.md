@@ -19,7 +19,6 @@
     
     
     
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?escravo&theme=buefy)
 <hr>
 <div style="display: inline_block" width="100%" align="center">
     <h2>Linguagens</h2>
