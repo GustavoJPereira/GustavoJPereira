@@ -21,10 +21,11 @@
     
 <hr>
 <div style="display: inline_block" width="100%" align="center">
-    <h2>Linguagens e Tecnologias</h2>
+    <h2>Linguagens, Tecnologias e Ferramentas</h2>
     <img align="center" alt="Gustavo-HTML5" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
      <img align="center" alt="Gustavo-CSS3" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
      <img align="center" alt="Gustavo-Javascript" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
 <div>
   <a href=""></a>
