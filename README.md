@@ -4,7 +4,7 @@
 
 - 🌱 Estudando Java, SpringBoot, VueJS
 - 📫 Email: gustavojosepereira2021@gmail.com
-<br>
+- 💼 Likedin: https://www.linkedin.com/in/gustavo-josé-pereira-99373921a/
 <br>
 <hr>
 <div>
