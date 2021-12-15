@@ -1,5 +1,5 @@
 # Olá! Eu sou o Gustavo 👋
-<img style="width: 150px" border-radius="5px" align="right" src="https://github.com/Escravo/Escravo/blob/main/images/Largatinho.png">  
+<img style="width: 150px" border-radius="5px" align="right" src="https://github.com/GustavoJPereira/GustavoJPereira/blob/main/images/Largatinho.png">  
 <br><br>
 
 - 🌱 Estudando Javascript, HTML e CSS
