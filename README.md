@@ -31,7 +31,7 @@
      <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
      <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
      <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+     <img align="center" alt="Gustavo-Figma" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 <div>
   <a href=""></a>
