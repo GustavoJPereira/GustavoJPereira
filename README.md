@@ -8,7 +8,7 @@
 <br>
 <hr>
 <div>
-    <a href="https://github.com/Escravo" style="display: flex">
+    <a href="https://github.com/GustavoJPereira" style="display: flex">
     <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
     <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escravo&layout=compact&langs_count=7&theme=buefy"/>
 </div>
