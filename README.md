@@ -14,7 +14,7 @@
 </div>
  <br>
     
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoJPereira&repo=HdA-Pagina-Web&theme=buefy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoJPereira&repo=Urna-eletronica&theme=buefy)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoJPereira&repo=comercio-eletronico&theme=buefy)
     
     
