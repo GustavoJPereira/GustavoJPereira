@@ -2,7 +2,7 @@
 <img style="width: 150px" border-radius="5px" align="right" src="https://github.com/GustavoJPereira/GustavoJPereira/blob/main/images/Largatinho.png">  
 <br><br>
 
-- 🌱 Estudando Java, SpringBoot, VueJS
+- 🌱 Estudando Java, SpringBoot, React
 - 📫 Email: gustavojosepereira2021@gmail.com
 - 💼 Likedin: https://www.linkedin.com/in/gustavo-josé-pereira-99373921a/
 <br>
