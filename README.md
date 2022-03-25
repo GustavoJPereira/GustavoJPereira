@@ -1,17 +1,17 @@
 # Olá! Meu nome é Gustavo,
 <img style="width: 150px" border-radius="5px" align="right" src="https://github.com/GustavoJPereira/GustavoJPereira/blob/main/images/Largatinho.png">  
 
-Sou um apreciador da beleza presente em felinos, répteis e aranhas, não me julguem, mas eu costumava dar nome para as largatixas e aranhas grandes em casa. Quando o assunto são jogos, tenho um aficionamento por RPG's de mesa. Na parte dos eletrônicos prefiro jogos indies, os bons tendem a serem mais criativos.
+Sou um apreciador da beleza presente em felinos, répteis e aranhas, não me julguem, mas eu costumava dar nome para as lagartixas e aranhas grandes em casa. Quando o assunto são jogos, tenho um aficionamento por RPG's de mesa. Na parte dos eletrônicos prefiro jogos indies, os bons tendem a serem mais criativos.
 
-Eu costumo falar além do recomendado e criar emplicações gigantes para coisas que para a maioria parece banal, fazer perguntas gigantes sobre coisas que parecem fugir em muito do assunto ou muito avançadas para a situação atual. O que posso fazer? A curiosidade bate e não consigo me conter.
+Eu costumo falar além do recomendado e criar explicações gigantes para coisas que para a maioria parece banal, fazer perguntas gigantes sobre coisas que parecem fugir em muito do assunto ou muito avançadas para a situação atual. O que posso fazer? A curiosidade bate e não consigo me conter.
  
 Iniciei no mundo da programação com Instituto PROA, onde pude confirmar que este mundo era para mim, e agora procuro trabalhar como desenvolvedor full-stack, porém aceitaria sem problemas uma vaga como front ou back end.
 
-PS: Atualmente procurando um linter para lingua portuguesa.
+PS: Atualmente procurando um linter para língua portuguesa.
 
-PSS: Agora procurando o porquê de não haver um linter para lingua portuguesa.
+PSS: Agora procurando o porquê de não haver um linter para língua portuguesa.
 
-PSSS: Sabia que P.S. significa *post scriptum* em latim? Pelo jeito pode ser traduzido como "escrito posteriormente" e vem da época das cartas, se tratando de algo que o interlocutor só lembrou de escrever depois de terminar a carta. *Obrigado a John C. Thomas e Lance A. Miller por terem inventado o Ctrl + Z.*
+PSSS: Sabia que P.S. significa *post scriptum* em latim? Pelo jeito pode ser traduzido como "escrito posteriormente" e vem da época das cartas, se tratando de algo que o interlocutor só se lembrou de escrever depois de terminar a carta. *Obrigado a John C. Thomas e Lance A. Miller por terem inventado o Ctrl + Z.*
 
 <br>
 
